@@ -1,4 +1,4 @@
-<H3>NAME: D>Amarnath Reddy</H3>
+<H3>NAME: D.Amarnath Reddy</H3>
 <H3>REGISTER NO: 212221240012</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: 28/02/2024</H3>
